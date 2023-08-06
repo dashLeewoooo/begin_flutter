@@ -9,3 +9,4 @@ Flutter 기초 강의
 ## TimeStamp
 
 - 2023-08-06: 강의 구매 및 수강 시작
+- 2023-08-06: Hello World 앱 만들기
