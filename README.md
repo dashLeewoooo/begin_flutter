@@ -12,3 +12,4 @@ Flutter 기초 강의
 - 2023-08-06: Hello World 앱 만들기
 - 2023-08-06: Splash 앱 만들기
 - 2023-08-07: Row & Column 이론 및 기초 앱 만들기
+- 2023-08-09: Stateful Widget 이론 및 기초 앱 만들기
