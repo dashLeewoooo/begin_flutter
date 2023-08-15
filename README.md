@@ -16,3 +16,4 @@ Flutter 기초 강의
 - 2023-08-09: PageView 이론 및 기초 앱 만들기
 - 2023-08-10: U & I 이론 및 기초 앱 만들기
 - 2023-08-14: const constructor
+- 2023-08-15: Random Number Generator 앱 만들기
